@@ -1,1 +1,1 @@
-# Laboratorio_Progra_Cientifica
+# Laboratorio Programación Científica
